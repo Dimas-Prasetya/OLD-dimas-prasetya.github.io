@@ -16,3 +16,6 @@ group :development do
 end
 
 gem 'sinatra', '~> 1.4.2'
+gem 'gsl', '~> 1.16.0.4'
+gem 'octopress-popular-posts'
+gem 'octopress', '~> 3.0'
