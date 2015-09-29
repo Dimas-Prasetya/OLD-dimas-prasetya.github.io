@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Pemrograman | DimasPrasetya.Web.Id]]></title>
+  <link href="https://dimasprasetya.web.id/blog/categories/pemrograman/atom.xml" rel="self"/>
+  <link href="https://dimasprasetya.web.id/"/>
+  <updated>2015-09-30T01:28:20+07:00</updated>
+  <id>https://dimasprasetya.web.id/</id>
+  <author>
+    <name><![CDATA[Dimas Prasetya]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[HelloOctopress!]]></title>
+    <link href="https://dimasprasetya.web.id/blog/2015/08/31/hellooctopress/"/>
+    <updated>2015-08-31T14:38:42+07:00</updated>
+    <id>https://dimasprasetya.web.id/blog/2015/08/31/hellooctopress</id>
+    <content type="html"><![CDATA[<p>Hello Octopress!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ayok!]]></title>
+    <link href="https://dimasprasetya.web.id/blog/2015/08/31/ayok/"/>
+    <updated>2015-08-31T14:37:08+07:00</updated>
+    <id>https://dimasprasetya.web.id/blog/2015/08/31/ayok</id>
+    <content type="html"><![CDATA[<p>Hallo!
+asdfasdf
+asdf
+asd</p>
+
+<p>fa
+sdf
+a
+sdf
+a</p>
+
+<!-- more -->
+
+
+<p>sdf
+a</p>
+
+<p>sdf
+as</p>
+
+<p>df
+as</p>
+
+<p>df
+a</p>
+
+<p>sdf
+a</p>
+
+<p>sdf
+a</p>
+
+<p>sdf
+a</p>
+
+<p>sdf
+asd</p>
+
+<p>f
+asd</p>
+
+<p>f
+asdf</p>
+
+<p>as
+fd
+asdf</p>
+
+<p>asd
+f
+asdf</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Kenalan Yok!]]></title>
+    <link href="https://dimasprasetya.web.id/blog/2015/08/31/kenalan-yok/"/>
+    <updated>2015-08-31T14:22:04+07:00</updated>
+    <id>https://dimasprasetya.web.id/blog/2015/08/31/kenalan-yok</id>
+    <content type="html"><![CDATA[<p>Hello :)</p>
+]]></content>
+  </entry>
+  
+</feed>
