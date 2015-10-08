@@ -7,7 +7,7 @@ title: DimasPrasetya.Web.Id
 subtitle: Read, Research, Understand, Share
 author: Dimas Prasetya
 simple_search: https://www.google.com/search
-description:
+description: 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -105,42 +105,3 @@ google_analytics_tracking_id: UA-51165053-2
 # Facebook Like
 facebook_like: true
 
-
-# ----------------------- #
-# Oscailte Theme Settings #
-# ----------------------- #
-oscailte:
-    hire: # The "Available for Hire" widget
-        visible:
-            footer: false
-            sidebar: true
-        footer-cols: 6 # Number of columns available for the footer component, max 12
-        available: true # Whether or not you're available for hire
-        vibrant: false # Makes the widget much more noticeable
-        message: "Available for new opportunities"
-    social:
-        visible: true
-        title: # Defaults to "Follow me!" if not present
-        adn: # App.net
-        coinbase:
-        dribbble:
-        facebook:
-            user: AndroCyber
-            app_id: # For enabling Open Graph metadata
-        github:
-            user: dimas-prasetya
-            show_profile_link:
-        googleplus: 109095740331831712177
-        hackernews:
-        keybase:
-        linkedin:
-        pinterest:
-        reddit:
-        stackoverflow:
-        twitter:
-            user: D_Mas95
-            widget: # Shows the Recent Tweets widget in sidebar
-                is_shown:
-                show_profile_link:
-                widget_id:
-        youtube:
