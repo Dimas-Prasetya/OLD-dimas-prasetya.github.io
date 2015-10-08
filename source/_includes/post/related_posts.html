@@ -1,11 +1,13 @@
 {% if site.related_posts %}
   <hr>
   <h2>Related Posts</h2>
-  <ul class="posts">
+  <ul id="related_post">
   {% for post in site.related_posts limit:3 %}
-    <li class="related">
+    <li>
       <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
   </ul>
+  <br>
+  <hr>
 {% endif %}
