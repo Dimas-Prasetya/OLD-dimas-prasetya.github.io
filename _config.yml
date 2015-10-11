@@ -51,7 +51,7 @@ titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [custom/asides/about.html, asides/recent_posts.html, custom/asides/category_list.html]
+default_asides: [ asides/recent_posts.html, custom/asides/category_list.html, custom/asides/monthly_archive.html, custom/asides/about.html, asides/googleplus.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -105,3 +105,19 @@ google_analytics_tracking_id: UA-51165053-2
 # Facebook Like
 facebook_like: true
 
+
+# --------------- #
+# Monthly Archive #
+# --------------- #
+
+# Show the number of posts
+monthly_archive_count: true
+
+monthly_archive_open: latest
+
+# Month View Format
+monthly_archive_format: January
+
+# monthly_title_prefix: Archive:
+
+monthly_format: January
