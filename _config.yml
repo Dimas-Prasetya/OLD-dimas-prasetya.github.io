@@ -7,7 +7,8 @@ title: DimasPrasetya.Web.Id
 subtitle: Read, Research, Understand, Share
 author: Dimas Prasetya
 simple_search: https://www.google.com/search
-description: 
+description: Didedikasikan untuk berbagi ilmu seputar IT meliputi programming web, mobile, desktop, dan sebagai catatan agar ilmu yang sudah didapat bisa bermanfaat bagi orang lain yang membutuhkan.
+keywords: programming, pemrograman, web, web programming, mobile programming, android, java, algoritma, IT, security, design
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -41,7 +42,7 @@ rdiscount:
     - smart
 highlighter: pygments # default python pygments have been replaced by pygments.rb
 
-paginate: 5          # Posts per page on the blog index
+paginate: 8          # Posts per page on the blog index
 paginate_path: "posts/:num"  # Directory base for pagination URLs eg. /posts/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
