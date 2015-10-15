@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dimasprasetya.web.id/blog/2015/08/31/helloworld/</loc>
-    <lastmod>2015-08-31T14:41:51+07:00</lastmod>
-  </url>
-  <url>
-    <loc>https://dimasprasetya.web.id/blog/2015/08/31/hellooctopress/</loc>
-    <lastmod>2015-08-31T14:38:42+07:00</lastmod>
-  </url>
-  <url>
-    <loc>https://dimasprasetya.web.id/blog/2015/08/31/ayok/</loc>
-    <lastmod>2015-08-31T14:37:08+07:00</lastmod>
-  </url>
-  <url>
-    <loc>https://dimasprasetya.web.id/blog/2015/08/31/kenalan-yok/</loc>
-    <lastmod>2015-08-31T14:22:04+07:00</lastmod>
-  </url>
-  <url>
     <loc>https://dimasprasetya.web.id/</loc>
   </url>
   <url>
@@ -27,14 +11,5 @@
   </url>
   <url>
     <loc>https://dimasprasetya.web.id/pemrograman/</loc>
-  </url>
-  <url>
-    <loc>https://dimasprasetya.web.id/blog/2015/08/</loc>
-  </url>
-  <url>
-    <loc>https://dimasprasetya.web.id/blog/categories/algoritma/</loc>
-  </url>
-  <url>
-    <loc>https://dimasprasetya.web.id/blog/categories/pemrograman/</loc>
   </url>
 </urlset>
