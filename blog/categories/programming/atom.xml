@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[DimasPrasetya.Web.Id]]></title>
-  <link href="https://dimasprasetya.web.id/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Programming | DimasPrasetya.Web.Id]]></title>
+  <link href="https://dimasprasetya.web.id/blog/categories/programming/atom.xml" rel="self"/>
   <link href="https://dimasprasetya.web.id/"/>
   <updated>2015-10-19T01:03:22+07:00</updated>
   <id>https://dimasprasetya.web.id/</id>

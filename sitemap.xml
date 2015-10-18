@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://dimasprasetya.web.id/blog/2015/10/15/computer-programming/</loc>
+    <lastmod>2015-10-15T15:45:25+07:00</lastmod>
+  </url>
+  <url>
     <loc>https://dimasprasetya.web.id/</loc>
   </url>
   <url>
@@ -11,5 +15,11 @@
   </url>
   <url>
     <loc>https://dimasprasetya.web.id/pemrograman/</loc>
+  </url>
+  <url>
+    <loc>https://dimasprasetya.web.id/blog/2015/10/</loc>
+  </url>
+  <url>
+    <loc>https://dimasprasetya.web.id/blog/categories/programming/</loc>
   </url>
 </urlset>
