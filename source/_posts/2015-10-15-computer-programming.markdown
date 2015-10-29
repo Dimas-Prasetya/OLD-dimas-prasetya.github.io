@@ -21,7 +21,9 @@ Pada postingan pertama ini, saya akan mulai dengan pengenalan _Computer Programm
 Pada awalnya mungkin banyak dari kita bertanya-tanya,
 
 > _Apa itu **computer programming** ?_ 
+
 <!--more-->
+
 **_Computer Programming_** atau biasa disebut **_programming_** / **_pemrograman_** adalah segala kegiatan yang berhubungan dengan pembuatan program komputer. ( Apa lagi......itu program komputer ??? )
 
 **_Program Komputer_** adalah kumpulan instruksi untuk mengatur komputer agar melaksanakan tugas sesuai dengan yang dikehendaki oleh _user_ / pemakai.
@@ -64,6 +66,9 @@ Sesudah kita mempraktikkan contoh yang ada, lakukan perubahan-perubahan pada _co
 
 **LANJUTKAN**  
 **LA**kukan percobaan-percobaa**N** lebih lanjut dengan semangat **JU**ang yang **T**inggi berdasarkan **K**reativitas  **AN**da sendiri **!**
+
+Ada satu video yang menurut saya sangat menarik dan membuat saya untuk terus mendalami _computer programming_. Berikut video nya :  
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/pvAsqPbz9Ro/0.jpg)](https://www.youtube.com/watch?v=pvAsqPbz9Ro "Is Computer Programming hard to learn ?")
 
 
 Satu hal penting lagi, untuk menghadapi tantangan ke depan, keterampilan _programming_ saja tidak cukup. Sambil memperdalam keterampilan _programming_ kita juga harus mengembangkan **7C** :  
