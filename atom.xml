@@ -4,7 +4,7 @@
   <title><![CDATA[DimasPrasetya.Web.Id]]></title>
   <link href="https://dimasprasetya.web.id/atom.xml" rel="self"/>
   <link href="https://dimasprasetya.web.id/"/>
-  <updated>2015-10-30T01:52:00+07:00</updated>
+  <updated>2015-11-12T00:58:15+07:00</updated>
   <id>https://dimasprasetya.web.id/</id>
   <author>
     <name><![CDATA[Dimas Prasetya]]></name>
@@ -12,6 +12,77 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Programming Language]]></title>
+    <link href="https://dimasprasetya.web.id/blog/2015/11/06/programming-language/"/>
+    <updated>2015-11-06T21:02:14+07:00</updated>
+    <id>https://dimasprasetya.web.id/blog/2015/11/06/programming-language</id>
+    <content type="html"><![CDATA[<p><em>Hello everyone</em>&hellip;.<br/>
+<em>How are you ?</em></p>
+
+<p>Kembali lagi bersama DimasPrasetya.Web.Id. Pada postingan sebelumnya, kita telah belajar mengenai <a href="https://dimasprasetya.web.id/blog/2015/10/15/computer-programming/" title="Computer Programming"><em>apa itu Computer Programming</em></a>, pengertian program komputer, programmer, dan lain-lain. Pada postingan kali ini, kita akan belajar lebih dalam mengenai bahasa pemrograman / <em>programming language</em>.</p>
+
+<p>Pada postingan sebelumnya telah disinggung sedikit mengenai bahasa pemrograman.</p>
+
+<blockquote><p><em>Apa sih yang dimaksud bahasa pemrograman / programming language itu ?</em></p></blockquote>
+
+<!-- more -->
+
+
+<p>Sebelum menjawab pertanyaan di atas, saya mengajak teman-teman untuk membayangkan. Hehe&hellip;</p>
+
+<p>Bayangkan ketika kita yang belum bisa bahasa German dan saat itu juga berada di German. Pasti kita akan kesulitan berkomunikasi dengan orang-orang disana. Maka dari itu, kita perlu mengerti bahasa German atau paham dengan bahasa Internasional yang dapat dimengerti oleh orang Indonesia dan orang German.<br/>
+Begitupun kita dengan kompie (komputer). Kita belum paham dengan bahasa si kompie. Dia berkomunikasi dengan bahasa yang tidak manusiawi, sedangkan kita menggunakan bahasa manusia. Untuk itu, kita perlu belajar bahasa yang bisa dimengerti oleh kita dan si kompie. Kalo kita sudah mengerti dengan bahasa si kompie, kita kan jadi mudah untuk berkomunikasi dan memberikan instruksi untuk melakukan fungsi tertentu. Nah, bahasa itulah yang disebut dengan bahasa pemrograman.</p>
+
+<p>Bahasa pemrograman yang kita kenal antara lain Java, C, C#, C++, PHP, HTML, dan masih banyak lagi. Namun tentu saja kebutuhan bahasa ini harus disesuaikan dengan fungsi dan perangkat yang menggunakannya, seperti yang sudah saya jelaskan di <a href="https://dimasprasetya.web.id/blog/2015/10/15/computer-programming/" title="Computer Programming">postingan sebelumnya</a>.<br/>
+Secara umum bahasa pemrograman terbagi menjadi 4 kelompok :</p>
+
+<ol>
+<li><p><em>Low Level Language</em> / Bahasa Tingkat Rendah<br/>
+Bahasa pemrograman masuk tingkat ini karena bahasanya masih jauh dari bahasa manusia. Contoh : bahasa Assembly</p></li>
+<li><p><em>Middle Level Language</em> / Bahasa Tingkat Menengah
+Disebut tingkat menengah karena bisa masuk ke dalam bahasa tingkat tinggi maupun rendah. Contoh : bahasa C</p></li>
+<li><p><em>High Level Language</em> / Bahasa Tingkat Tinggi
+Bahasa pemrograman masuk tingkat ini karena bahasanya mendekati bahasa manusia. Contoh : bahasa Java, Visual Basic, PHP.</p></li>
+<li><p><em>Object Oriented Language</em> / Bahasa Berorientasi Objek
+Bahasa pemrograman masuk tingkat ini karena bahasanya menerapkan konsep <em>object oriented programming</em> / pemrograman berorientasikan objek. Contoh : Java, PHP.</p></li>
+</ol>
+
+
+<p>Program yang ditulis dengan bahasa pemrograman tingkat menengah, tinggi, maupun bahasa berorientasi objek sebenarnya tidak dimengerti oleh si kompie secara langsung, karena si kompie hanya mengenal bahasa khasnya saja yaitu bahasa mesin atau bahasa tingkat rendah. Agar program bisa dijalankan/dieksekusi oleh si kompie, program tersebut harus diterjemahkan dulu ke dalam bahasa mesin. Proses penerjemahan terdiri dari dua macam yaitu <strong>kompilasi</strong> dan <strong>interpretasi</strong>.</p>
+
+<p><strong>Kompilasi (<em>Compilation</em>)</strong><br/>
+Pada proses kompilasi, <strong>semua</strong> <em>source code</em> akan dibaca terlebih dahulu. Jika <em>source code</em> tidak ada kesalahan maka akan diterjemahkan menjadi kode objek/bahasa mesin, dan akan dijalankan/dieksekusi oleh si kompie. Program yang melakukan tugas ini disebut <strong>compiler</strong>. Program hasil kompilasi akan berbentuk <em>executable</em>, jadi kompiler tidak diperlukan lagi jika ingin menjalankan program tersebut.<br/>
+Bahasa pemrograman yang menggunakan teknik kompilasi antara lain C++, C, pascal, dll.</p>
+
+<p><strong>Interpretasi (<em>Interpretation</em>)</strong><br/>
+Pada proses imterpretasi, <em>source code</em> akan dibaca <strong>per baris</strong>. Jika dalam satu baris <em>source code</em> tersebut tidak ada kesalahan, maka akan diterjemahkan menjadi kode objek/bahasa mesin , dan akan dieksekusi oleh kompie. Selanjutnya si kompie akan melanjutkan membaca <em>source code</em> baris selanjutnya dan akan dilakukan hal yang sama dengan baris pertama sampai <em>source code</em> baris terakhir.<br/>
+Bahasa pemrograman yang menggunakan teknik interpretasi antara lain Python, Ruby, Perl, dll.</p>
+
+<p><strong>Kompilasi sekaligus Interpretasi</strong><br/>
+Ada juga bahasa pemrograman yang menghasilkan programnya dengan teknik kompilasi sekaligus interpretasi. Misalnya bahasa java. Dalam pembuatan program java kode sumber diubah menjadi bytecode. Meskipun nampak seperti bahasa mesin namun ini bukanlah bahasa mesin dan tidak executable. Untuk menjalankan bytecode tersebut kita membutuhkan Java Runtime Environment (JRE) yang bertugas sebagai interpreter sehingga menghasilkan program dari bytecode tersebut.</p>
+
+<p><em>Finally</em>, gimana nih, udah lebih paham tentang bahasa pemrograman kan&hellip;.<br/>
+Sekian untuk pembahasan kali ini. Pada kesempatan yang akan datang, kita akan belajar hal baru yang akan lebih menarik lagi. Jadi, tetap ikuti terus postingan DimasPrasetya.Web.Id.</p>
+
+<p><em>Bye Bye</em>&hellip;. ^_^</p>
+
+<hr />
+
+<p><em>Daftar Pustaka :</em></p>
+
+<ul>
+<li><em>Abdul Kadir &amp; Heriyanto. 2005. Algoritma Pemrograman menggunakan C++. Yogyakarta: Andi.</em></li>
+<li><em><a href="https://id.wikipedia.org/wiki/Bahasa_pemrograman#Proses_Pembuatan_Program" title="Bahasa Pemrograman">Bahasa Pemrograman</a> - Wikipedia</em></li>
+</ul>
+
+
+<hr />
+
+<p>(<strong>NB</strong> : Sertakan link sumber jika ingin copas ^_^)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Computer Programming]]></title>
