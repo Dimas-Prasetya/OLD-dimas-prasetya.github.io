@@ -24,7 +24,7 @@ Sebelum menjawab pertanyaan di atas, saya mengajak teman-teman untuk membayangka
 Bayangkan ketika kita yang belum bisa bahasa German dan saat itu juga berada di German. Pasti kita akan kesulitan berkomunikasi dengan orang-orang disana. Maka dari itu, kita perlu mengerti bahasa German atau paham dengan bahasa Internasional yang dapat dimengerti oleh orang Indonesia dan orang German.  
 Begitupun kita dengan kompie (komputer). Kita belum paham dengan bahasa si kompie. Dia berkomunikasi dengan bahasa yang tidak manusiawi, sedangkan kita menggunakan bahasa manusia. Untuk itu, kita perlu belajar bahasa yang bisa dimengerti oleh kita dan si kompie. Kalo kita sudah mengerti dengan bahasa si kompie, kita kan jadi mudah untuk berkomunikasi dan memberikan instruksi untuk melakukan fungsi tertentu. Nah, bahasa itulah yang disebut dengan bahasa pemrograman.
 
-Bahasa pemrograman yang kita kenal antara lain Java, C, C#, C++, PHP, HTML, dan masih banyak lagi. Namun tentu saja kebutuhan bahasa ini harus disesuaikan dengan fungsi dan perangkat yang menggunakannya, seperti yang sudah saya jelaskan di [postingan sebelumnya](https://dimasprasetya.web.id/blog/2015/10/15/computer-programming/ "Computer Programming").  
+Bahasa pemrograman yang kita kenal antara lain Java, C, C#, C++, PHP, dan masih banyak lagi. Namun tentu saja kebutuhan bahasa ini harus disesuaikan dengan fungsi dan perangkat yang menggunakannya, seperti yang sudah saya jelaskan di [postingan sebelumnya](https://dimasprasetya.web.id/blog/2015/10/15/computer-programming/ "Computer Programming").  
 Secara umum bahasa pemrograman terbagi menjadi 4 kelompok :  
 
 1. _Low Level Language_ / Bahasa Tingkat Rendah  
